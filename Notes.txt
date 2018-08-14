@@ -1,0 +1,12 @@
+"""
+Auto Send Email Through Outlook
+https://topbullets.com/2016/09/21/auto-send-email-through-outlook-via-python-code-topbullets-com/
+
+pyautogui documentation w/ keys presses
+http://pyautogui.readthedocs.io/en/latest/keyboard.html
+
+PEP 8 -- Style Guide for Python Code
+https://www.python.org/dev/peps/pep-0008
+
+Python GUI examples (Tkinter Tutorial)
+https://likegeeks.com/python-gui-examples-tkinter-tutorial/
